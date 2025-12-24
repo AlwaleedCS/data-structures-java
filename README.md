@@ -1,4 +1,4 @@
-# d# Data Structures in Java
+## Data Structures in Java
 
 This repository contains implementations of common data structures using Java.
 The projects are created for learning, practice, and understanding how data
